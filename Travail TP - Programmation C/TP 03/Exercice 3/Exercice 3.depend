@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+315796393 source:c:\users\hp\desktop\exercice 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+315796393 source:c:\users\hp\desktop\tp 03\exercice 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

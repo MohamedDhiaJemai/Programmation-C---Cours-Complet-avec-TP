@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512504615 source:/home/habib/Documents/atelier_c_sesame-master/Tp6/Ex4/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

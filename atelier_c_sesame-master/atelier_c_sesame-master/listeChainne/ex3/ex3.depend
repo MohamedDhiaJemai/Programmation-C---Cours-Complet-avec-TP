@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520543419 source:/home/habib/Documents/atelier_c_sesame-master/listeChainne/ex3/main.c
+	<stdio.h>
+	<stdlib.h>
+

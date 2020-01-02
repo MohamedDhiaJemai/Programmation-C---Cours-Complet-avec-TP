@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511192202 source:/home/habib/Documents/atelier_c_sesame-master/Tp6/Ex2/main.c
+	<stdio.h>
+	<math.h>
+

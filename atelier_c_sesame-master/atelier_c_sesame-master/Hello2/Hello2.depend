@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506695443 source:/home/habib/Documents/atelier_c_sesame-master/Hello2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506695617 source:/home/habib/Documents/atelier_c_sesame-master/Hello2/ex2.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506700032 source:/home/habib/Documents/atelier_c_sesame-master/Ex5/main.c
+	<stdio.h>
+	<stdlib.h>
+

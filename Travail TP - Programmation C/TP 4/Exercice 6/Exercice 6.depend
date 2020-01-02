@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509355160 source:c:\users\hp\desktop\exercice 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509812033 source:c:\users\hp\desktop\nouveau dossier\exercice 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
